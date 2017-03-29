@@ -1,0 +1,27 @@
+b00566698  	Adam	Bassler	abassle1@binghamton.edu	Student		Yes
+b00589937  	Robert	Burton	rburton2@binghamton.edu	Student		Yes
+b00591027  	Taehyun	Cho	tcho5@binghamton.edu	Student		Yes
+b00592811  	Chanu	Choi	cchoi15@binghamton.edu	Student		Yes
+b00592236  	David	Dvorkin	ddvorki1@binghamton.edu	Student		Yes
+b00577416  	Johan	Ferreras	jferrer4@binghamton.edu	Student		Yes
+b00572588  	Peter	Golden	pgolden1@binghamton.edu	Student		Yes
+b00074383  	Suronda	Gonzalez	sgonzal@binghamton.edu	Teaching Assistant		Yes
+b00618024  	Daniel	Hintz	dhintz1@binghamton.edu	Student		Yes
+b00638789  	Aleshia	Huber	hubera@binghamton.edu	Guest		Yes
+b00592673  	Kevin	Kim	kkim119@binghamton.edu	Student		Yes
+b00614971  	Anchu	Lee	alee845@binghamton.edu	Student		Yes
+b00559498  	Brian	Liebe	bliebe1@binghamton.edu	Student		Yes
+b00564531  	Jesse	Lin	jlin129@binghamton.edu	Student		Yes
+b00503457  	Grant	Lindhorst	glindho1@binghamton.edu	Teaching Assistant		Yes
+b00591090  	Daniel	McNeill	dmcneil2@binghamton.edu	Teaching Assistant		Yes
+b00625492  	Daniel	Mohunlal	dmohunl1@binghamton.edu	Student		Yes
+b00583918  	Kevin	Ren	kren2@binghamton.edu	Student		Yes
+b00537014  	Rupam	Roy	rroy6@binghamton.edu	Student		Yes
+b00671615  	Ari	Schild	aschild1@binghamton.edu	Student		Yes
+b00542137  	Jarrod	Stone	jstone6@binghamton.edu	Teaching Assistant		Yes
+b00671023  	Kevin	Tarczali	ktarcza1@binghamton.edu	Student		Yes
+b00074744  	George	Weinschenk	bg27032@binghamton.edu	Instructor		Yes
+b00613076  	Gregory	Wint	gwint1@binghamton.edu	Student		Yes
+b00591001  	Yu Xuan	Wu	ywu148@binghamton.edu	Student		Yes
+b00303221  	Ashley	Yale	ayale1@binghamton.edu	Student		Yes
+b00605030  	James	Yao	jyao6@binghamton.edu	Student		Yes
