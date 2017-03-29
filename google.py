@@ -5,7 +5,7 @@ import common
 import os
 from oauth2client.service_account import ServiceAccountCredentials
 
-CREDENTIALS_FILE_NAME   = 'CS301-7e15aaa9056e.json'
+CREDENTIALS_FILE_NAME   = 'CS301-credentials.json'
 SPREADSHEET_NAME        = 'DiscussionPosts'
 
 # This function logs in to Google serives and gets the reference to
